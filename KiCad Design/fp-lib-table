@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name A-DF_09_A_KG-T2S)(type Legacy)(uri C:/Users/Steve/Downloads/LIB_A-DF_09_A_KG-T2S/A-DF_09_A_KG-T2S/KiCad/A-DF_09_A_KG-T2S.mod)(options "")(descr ""))
+  (lib (name A-DS_09_A_KG-T2S)(type Legacy)(uri C:/Users/Steve/Downloads/LIB_A-DS_09_A_KG-T2S/A-DS_09_A_KG-T2S/KiCad/A-DS_09_A_KG-T2S.mod)(options "")(descr ""))
+  (lib (name 10090926-P264XLF)(type Legacy)(uri C:/Users/Steve/Downloads/LIB_10090926-P264XLF/10090926-P264XLF/KiCad/10090926-P264XLF.mod)(options "")(descr ""))
+)
